@@ -9,3 +9,5 @@ PROJECT
 2.  Irish Flower Detection : This project is focus on developing a model that can classify iris
 flowers into different species based on their sepal and petal
 measurements.
+
+3.Sale Prediction Using Python : This project focussing on predicting the sales by forecasting the amount of product that customers will purchase.
