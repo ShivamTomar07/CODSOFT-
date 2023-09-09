@@ -6,3 +6,6 @@ Welcome to my Data Science Internship Portfolio! In this repository, you will fi
 PROJECT
 1. Titanic Survival Detection Description: This project focuses on analyzing the Titanic dataset to predict passenger survival. It involves data preprocessing, exploratory data analysis, and building a machine learning model to predict survival probabilities.
 
+2.  Irish Flower Detection : This project is focus on developing a model that can classify iris
+flowers into different species based on their sepal and petal
+measurements.
